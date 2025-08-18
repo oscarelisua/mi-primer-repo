@@ -1,1 +1,2 @@
 Hola, este es mi primer archivo en Git.
+Agregando una línea nueva para el ejercicio 2.
